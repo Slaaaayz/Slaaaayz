@@ -9,7 +9,7 @@
 -----
 
 ```py
-class Attributes(TheCuteOwl):
+class Attributes(Slaaaayz):
     def __init__(self) -> None:
         super().__init__()
         
