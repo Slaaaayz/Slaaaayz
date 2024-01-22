@@ -1,4 +1,4 @@
-<p align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=500&color=7C2ECD&random=false&width=435&lines=Hi%2C+Im+Slayz+;A+little+apprentice+in+cyber;And+network;And+python+program"></a></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=500&color=7C2ECD&random=false&width=435&lines=Hi%2C+Im+Slayz+;A+little+apprentice+in+cyber;And+network;And+python+program"></a></p>
 
 
 <p align="center"><img src="https://lanyard.cnrad.dev/api/614112274390450235?&theme=dark&borderRadius=20px&idleMessage=Doing%20nothing%20right%20now&showDisplayName=true"></a></p>
