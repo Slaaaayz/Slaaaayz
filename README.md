@@ -10,8 +10,6 @@
 
 <p align="center">⭐My Stats</p>
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=Slaaaayz&theme=shadow-purple&border_radius=15"/>
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slaaaayz&layout=compact&langs_count=8&theme=nightowl&locale=en"/>
