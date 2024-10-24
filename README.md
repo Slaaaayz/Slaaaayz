@@ -1,14 +1,9 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=500&color=7C2ECD&random=false&width=435&lines=Hi%2C+Im+Slayz+;A+little+apprentice+in+cyber;And+network;And+python+program"></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73A40&repeat=false&width=435&lines=Hi+%2C+Im+Slayz" alt="Typing SVG" /></a>
 
 
 <p align="center"><img src="https://lanyard.cnrad.dev/api/614112274390450235?&theme=dark&borderRadius=20px&idleMessage=Doing%20nothing%20right%20now&showDisplayName=true"></a></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Slaaaayz&theme=discord"</a></p>
-
-
 -----
-
-<p align="center">⭐My Stats</p>
 
 
 <p align="center">
@@ -20,20 +15,13 @@
 
  
 ----- 
-Tools
 
-![](https://skillicons.dev/icons?i=py) (*Learning*)
-
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 -----
 <p align="center"> 
   Visits:<br>
   <img src="https://komarev.com/ghpvc/?username=Slaaaayz&style=for-the-badge"/>
 </p>
-
-
-* If you see this have a nice day :p
 
 
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
